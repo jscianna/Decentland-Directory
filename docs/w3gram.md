@@ -3,6 +3,7 @@ Since most traditional social media platforms are centralized, the emerging dece
 Most importantly, it enables users to have full control over their data with no limits, and that's what <b>w3gram</b> will provide.
 
 <h1>w3gram as a word</h1>
+
 - <i>"w3" :</i> reffers to web3.0 , a decentralised, open source, peer to peer protocol.
 - <i>"gram" </i> indicating a drawing or something written or recorded
 
