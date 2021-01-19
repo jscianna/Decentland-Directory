@@ -9,10 +9,25 @@ Most importantly, it enables users to have full control over their data with no 
 
 Therefore <i><b>w3gram</i></b> indicates the act of writing on blockchain.
 
-<h1>Inspiration</h1>
+<h1>Inspirations</h1>
 w3gram is hybrid of several ideas combined into one merger protocol:
 
 <h2>reddit:</h2>
 Reddit is a community-determined aggregator of content. It is a social platform where users submit posts that other users 'upvote' or 'downvote' based on if they like it.
 it's the self-proclaimed <i>“front page of the internet”</i>.
+<b>What's insipred from reddit?</b>
+inspired features are:
+
+- communities as forums
+- subreddits
+- lot of subjects discussions: philosophy, science, technology,politics, etecera.
+- karma
+
+<b>w3gram will fix:</b>
+- skeptical fan base and the Reddit system's negative feedback option
+- community centralization: by admins
+- classifying users on their Karma regardless their content
+- non-clear rules to join a community or to guarantee admin's allow on posts sharing
+
+<h2>KarmaDAO:</h2>
     
