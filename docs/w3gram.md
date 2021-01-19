@@ -28,8 +28,8 @@ inspired features are:
 <b>w3gram will fix:</b>
 - skeptical fan base and the Reddit system's negative feedback option
 - community centralization: owned by admins
-- classifying users on their Karma regardless their content
-- non-clear rules to join a community or to guarantee admin's allow on posts sharing
+- classifying users basing on their Karma regardless their content
+- unclear rules to join a community or to guarantee admin's allow on posts sharing
 
 <h2>KarmaDAO:</h2>
 
@@ -42,4 +42,9 @@ inspired features are:
 - Token-Permissioned DAO
 - decentralized social network
 - Community Ownership Economy
-    
+
+<b>w3gram will fix:</b>
+- the act of using centralised third party in DAO's core Protocol: Telegram
+- User experience
+- Protocol's non unification
+- Permanent archiving of user's content
