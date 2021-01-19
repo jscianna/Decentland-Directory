@@ -15,8 +15,10 @@ w3gram is hybrid of several ideas combined into one merger protocol:
 <h2>reddit:</h2>
 Reddit is a community-determined aggregator of content. It is a social platform where users submit posts that other users 'upvote' or 'downvote' based on if they like it.
 it's the self-proclaimed <i>“front page of the internet”</i>.
-<br>
+
+
 <b>What's insipred from reddit?</b>
+
 
 inspired features are:
 
@@ -50,7 +52,7 @@ inspired features are:
 - Permanent archiving of user's content
 
 <h2>Unbiased Public Square</h2>
-After Twitter suspend of Trump's account POTUS, and the mysterious privacy policy of Twitter foundation, Sam Williams announced in a <a href="https://twitter.com/samecwilliams/status/1347741160165531655?s=20">tweet about a data protocol for an unbiased public square based on Arweave.
+After Twitter suspend of Trump's account POTUS, and the mysterious privacy policy of Twitter foundation, Sam Williams announced in a <a href="https://twitter.com/samecwilliams/status/1347741160165531655?s=20">tweet</a> about a data protocol for an unbiased public square based on Arweave.
   
 <b>What's insipred from Unbiased Public Square?</b>
 
