@@ -8,3 +8,11 @@ Most importantly, it enables users to have full control over their data with no 
 - <i>"gram" </i> indicating a drawing or something written or recorded
 
 Therefore <i><b>w3gram</i></b> indicates the act of writing on blockchain.
+
+<h1>Inspiration<h1>
+  w3gram is hybrid of several ideas combined into one merger protocol:
+  
+  - reddit:
+    Reddit is a community-determined aggregator of content. It is a social platform where users submit posts that other users 'upvote' or 'downvote' based on if they like it.
+    it's the self-proclaimed <i>“front page of the internet”</i>.
+    
