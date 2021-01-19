@@ -8,7 +8,7 @@ Tech giants are removing more content, community managers ban users, reports, ge
 We use <a href="https://semver.org/">SemVer</a> for versioning. For the versions available, see the tags on the repository (when available)
 
 <h1>Authors</h1>
-- Pepe007 *documenting and initial developments* - <a href="https://github.com/charmful0x">Pepe007</a>
+- Pepe007 <i>documenting and initial developments</i> | <a href="https://github.com/charmful0x">Pepe007</a> <br>
 See also the list of <a href="https://github.com/w3gram/contributors">contributors</a> who participated in this project.
   
 <h1>License</h1>
