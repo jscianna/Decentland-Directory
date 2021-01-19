@@ -15,7 +15,9 @@ w3gram is hybrid of several ideas combined into one merger protocol:
 <h2>reddit:</h2>
 Reddit is a community-determined aggregator of content. It is a social platform where users submit posts that other users 'upvote' or 'downvote' based on if they like it.
 it's the self-proclaimed <i>“front page of the internet”</i>.
+
 <b>What's insipred from reddit?</b>
+
 inspired features are:
 
 - communities as forums
@@ -25,9 +27,19 @@ inspired features are:
 
 <b>w3gram will fix:</b>
 - skeptical fan base and the Reddit system's negative feedback option
-- community centralization: by admins
+- community centralization: owned by admins
 - classifying users on their Karma regardless their content
 - non-clear rules to join a community or to guarantee admin's allow on posts sharing
 
 <h2>KarmaDAO:</h2>
+
+According to Andrew Lee Medium <a href="https://andrwlee.medium.com/announcing-karma-dao-first-ever-token-permissioned-networking-chat-group-on-telegram-5feab7a54def">article</a>, Karma DAO is the first <i>token-permissioned networking chat group on Telegram</i> based on Ethereum blockchain.
+
+<b>What's insipred from karmaDAO?</b>
+
+inspired features are:
+
+- Token-Permissioned DAO
+- decentralized social network
+- Community Ownership Economy
     
