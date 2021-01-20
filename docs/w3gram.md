@@ -75,7 +75,7 @@ w3gram will try to fix
 
 According the the pros and cons mentioned above, w3gram will be a "better" hybrid built totally onchain.
 
-<h2>Protocol: App-Name</h2>
+<h2>1- Protocol: App-Name</h2>
 
 in intention to create a hierarchical `tags` based protocol, a global tag will be used to identify w3gram-related transactions from the network.
 
