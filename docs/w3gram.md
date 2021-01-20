@@ -86,7 +86,7 @@ Also protocol's version will be recorded in another tag. It will follow SamVer v
 > `"version", "0.0.1"`
 
 
-<h2>2- Community</h2>
+<h2>2- Community: Tribus</h2>
 
 communities created over w3gram will have a standard hardcoded tag-key defined as `tribus-ID` with a tag-value evaluates to the tribus transaction ID
 
@@ -103,7 +103,9 @@ Before creating a tribus (community), the creator define a minimum held amount o
 
 Each tribus will represent a <a href="https://community.xyz">CommunityXYZ</a> community. Therefore, beside W3G token, each tribus will have its own token that can be used to tip and reward their own members.
 
+
  **Tribus membership is tradable: *buy to join , sell to leave* **
+ 
  
  <b>Tribus Structure</b>
  
@@ -116,3 +118,4 @@ keywoards:
 - reply: post's reply(ies)
  
  
+<h2> Actions </h2>
