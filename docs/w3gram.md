@@ -53,8 +53,9 @@ w3gram will try to fix:
 
 <h2>Public Square Protocol</h2>
 After Twitter suspend of Trump's account POTUS, and the mysterious privacy policy of Twitter foundation, Sam Williams announced in a <a href="https://twitter.com/samecwilliams/status/1347741160165531655?s=20">tweet</a> about a data protocol for an unbiased public square based on Arweave.
-  
-<b>What's insipred from Public Square? Protocol</b>
+
+<br><br>
+<b>What's insipred from Public Square Protocol?</b>
 
 inspired features are:
 
