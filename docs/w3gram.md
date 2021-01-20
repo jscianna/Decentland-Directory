@@ -118,7 +118,10 @@ keywoards:
 - reply: post's reply(ies)
  
  
-<h2> Actions </h2>
+<h2>3- Actions </h2>
 
 actions are "as in" , action(s) done by a user as interaction with the protocol. the list of actions to implement are: post, reply, like.
+
 each action name is assigned to tag's key.
+
+<b>post</b>
