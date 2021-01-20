@@ -70,3 +70,7 @@ w3gram will try to fix
 - monetizing the social protocol by a PSC
 - user experience: hardcoded posts
 
+
+<h1>w3gram protocol structure</h1>
+
+According the the pros and cons mentioned above, w3gram will be a "better" hybrid built totally onchain.
