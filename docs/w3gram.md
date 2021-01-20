@@ -75,7 +75,18 @@ w3gram will try to fix
 
 According the the pros and cons mentioned above, w3gram will be a "better" hybrid built totally onchain.
 
-<h2>1- Community</h2>
+<h2>Protocol: App-Name</h2>
+
+in intention to create a hierarchical `tags` based protocol, a global tag will be used to identify w3gram-related transactions from the network.
+
+> ` "App-Name", "w3gram" `
+
+Also protocol's version will be recorded in another tag. It will follow SamVer versioning
+
+> `"version", "0.0.1"`
+
+
+<h2>2- Community</h2>
 
 communities created over w3gram will have a standard hardcoded tag-key defined as `tribus-ID` with a tag-value evaluates to the tribus transaction ID
 
@@ -84,7 +95,7 @@ communities created over w3gram will have a standard hardcoded tag-key defined a
 Another key-value with a human readable value related tribus tag will be created ; ` "tribus", "meme-stan" `
 
 And if you want to compare it to Reddit, each ` "tribus", "tribus-name" ` key-value pair tag is equivalent to a ` /r/communityName `on Reddit.
-Transaction's tag feature provided by Arweave blockchain will be used as a "Database" - hierarchical tagging
+
 
 <b>Tribus Ownership Economy</b>
 
