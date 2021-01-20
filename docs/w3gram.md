@@ -90,7 +90,7 @@ Also protocol's version will be recorded in another tag. It will follow SamVer v
 
 communities created over w3gram will have a standard hardcoded tag-key defined as `tribus-ID` with a tag-value evaluates to the tribus transaction ID
 
-> example: ` "tribus", "l-VX...YRLn" `
+>> example: ` "tribus", "l-VX...YRLn" `
 
 Another key-value with a human readable value related tribus tag will be created ; ` "tribus", "meme-stan" `
 
@@ -101,4 +101,7 @@ And if you want to compare it to Reddit, each ` "tribus", "tribus-name" ` key-va
 
 Before creating a tribus (community), the creator define a minimum held amount of W3G token (temporar symbol in the time of writing) by the user to be eligible to post in that community (being a member); regardless of who's the user, his content, or what he's going to post, there is no way to restrict his right to publish in that tribus other than min. held PST token. 
 
- Therefore, tribus membership is tradable: *buy to join , sell to leave*
+Each tribus will represent a <a href="https://community.xyz">CommunityXYZ</a> community. Therefore, beside W3G token, each tribus will have its own token that can be used to tip and reward their own members.
+
+ **Tribus membership is tradable: *buy to join , sell to leave* **
+ 
