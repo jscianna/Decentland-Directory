@@ -74,3 +74,10 @@ w3gram will try to fix
 <h1>w3gram protocol structure</h1>
 
 According the the pros and cons mentioned above, w3gram will be a "better" hybrid built totally onchain.
+
+<h2>1- Community</h2>
+
+communities created over w3gram will have a standard hardcoded tag-key defined as `tribus` ; example: `"tribus", "meme-stan"`.
+And if you want to compare it to Reddit, each `"tribus", "tribus-name"` key-value pair tag is equivalent to a `/r/communityName`on Reddit.
+
+Transaction's tag feature provided by Arweave blockchain will be used as a "Database" - hierarchical tagging
