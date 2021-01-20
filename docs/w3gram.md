@@ -79,14 +79,15 @@ According the the pros and cons mentioned above, w3gram will be a "better" hybri
 
 communities created over w3gram will have a standard hardcoded tag-key defined as `tribus-ID` with a tag-value evaluates to the tribus transaction ID
 
-> example: ` "tribus", "l-VX...YRLn" `.
+> example: ` "tribus", "l-VX...YRLn" `
 
 Another key-value with a human readable value related tribus tag will be created ; ` "tribus", "meme-stan" `
 
 And if you want to compare it to Reddit, each ` "tribus", "tribus-name" ` key-value pair tag is equivalent to a ` /r/communityName `on Reddit.
-
 Transaction's tag feature provided by Arweave blockchain will be used as a "Database" - hierarchical tagging
 
 <b>Tribus Ownership Economy</b>
 
 Before creating a tribus (community), the creator define a minimum held amount of W3G token (temporar symbol in the time of writing) by the user to be eligible to post in that community (being a member); regardless of who's the user, his content, or what he's going to post, there is no way to restrict his right to publish in that tribus other than min. held PST token. 
+
+ Therefore, tribus membership is tradable: *buy to join , sell to leave*
