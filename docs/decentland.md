@@ -118,10 +118,29 @@ keywoards:
 - reply: post's reply(ies)
  
  
-<h2>3- Actions </h2>
+<h2>3- Registration </h2>
+user register (signup) by sending a transaction to the network with specefic tags using his own wallet.
 
-actions are "as in" , action(s) done by a user as interaction with the protocol. the list of actions to implement are: post, reply, like.
+**Limitations:**
 
-each action name is assigned to tag's key.
+- 1 account per wallet
+- username: from 4 to 30 characters
+- bio: 0-75 characters
+- whitespaces are automatically replaced by a dash "-" if found in the username
+- usernames are not unique per account (can be duplicated)
 
-<b>post</b>
+***usernames aren't unique. Although, wallet's public address is used to identify account uniqueness (userID = wallet's address).
+Usernames act as "Name" and can be updated anytime as same as bio***
+
+**Tags used to be considered as valid user (at registration):**
+
+- `"App-Name", "decent.land"`
+- `"username", ${username}`
+- `"version", "0.0.1"`
+- `"action", "signup"`
+- `"Content-Type", "application/json"`
+- `"user-id", ${pub_key}`
+- `"unix-epoch", ${userObject["registration_unix_epoch"]}` -- automatically insered by the script
+
+
+
