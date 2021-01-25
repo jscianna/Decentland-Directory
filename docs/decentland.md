@@ -1,16 +1,16 @@
 <h1>Synopsis</h1>
 Since most traditional social media platforms are centralized, the emerging decentralized social media platforms promise a different way of data production and control.
-Most importantly, it enables users to have full control over their data with no limits, and that's what <b>w3gram</b> will provide.
+Most importantly, it enables users to have full control over their data with no limits, and that's what <b>decent land</b> will provide.
 
-<h1>w3gram as a word</h1>
+<h1>decent land as a word</h1>
 
-- <i>"w3" :</i> reffers to web3.0 , a decentralised, open source, peer to peer protocol.
-- <i>"gram" </i> indicating a drawing or something written or recorded
+- <i>"decent" :</i> nodding to decency and decentralization in the same time.
+- <i>"land" </i> indicating the sum of tribuses (communities) created over the protocol. 
 
-Therefore <i><b>w3gram</i></b> indicates the act of writing on blockchain.
+Therefore <i><b>decent land</i></b> reffers to the hope of creating a decent monetized social network.
 
 <h1>Inspirations</h1>
-w3gram is hybrid of several ideas combined into one merger protocol:
+decent land is hybrid of several ideas combined into one merger protocol:
 
 <h2>reddit:</h2>
 Reddit is a community-determined aggregator of content. It is a social platform where users submit posts that other users 'upvote' or 'downvote' based on if they like it.
@@ -27,7 +27,7 @@ inspired features are:
 - lot of subjects discussions: philosophy, science, technology,politics, etecera.
 - karma
 
-w3gram will try to fix:
+decent land will try to fix:
 - skeptical fan base and the Reddit system's negative feedback option
 - community centralization: owned by admins
 - classifying users basing on their Karma regardless their content
@@ -45,7 +45,7 @@ inspired features are:
 - decentralized social network
 - Community Ownership Economy
 
-w3gram will try to fix:
+decent land will try to fix:
 - the act of using centralised third party in DAO's core Protocol: Telegram
 - User experience
 - Protocol's non unification
@@ -64,22 +64,22 @@ inspired features are:
 - permanent storage of discussions
 - on-chain user activity
 
-w3gram will try to fix
+decent land will try to fix
 
 - presence of protocol's dashboard: UI
 - monetizing the social protocol by a PSC
 - user experience: hardcoded posts
 
 
-<h1>w3gram protocol structure</h1>
+<h1>decent land protocol structure</h1>
 
-According the the pros and cons mentioned above, w3gram will be a "better" hybrid built totally onchain.
+According the the pros and cons mentioned above, decent land will be a "better" hybrid built totally onchain.
 
 <h2>1- Protocol: App-Name</h2>
 
-in intention to create a hierarchical `tags` based protocol, a global tag will be used to identify w3gram-related transactions from the network.
+in intention to create a hierarchical `tags` based protocol, a global tag will be used to identify decentland-related transactions from the network.
 
-> ` "App-Name", "w3gram" `
+> ` "App-Name", "decent.land" `
 
 Also protocol's version will be recorded in another tag. It will follow SamVer versioning
 
@@ -88,7 +88,7 @@ Also protocol's version will be recorded in another tag. It will follow SamVer v
 
 <h2>2- Community: Tribus</h2>
 
-communities created over w3gram will have a standard hardcoded tag-key defined as `tribus-ID` with a tag-value evaluates to the tribus transaction ID
+communities created over decent land will have a standard hardcoded tag-key defined as `tribus-ID` with a tag-value evaluates to the tribus transaction ID
 
 - example: ` "tribus", "l-VX...YRLn" `
 
