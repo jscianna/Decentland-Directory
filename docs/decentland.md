@@ -17,20 +17,20 @@ Reddit is a community-determined aggregator of content. It is a social platform 
 it's the self-proclaimed “front page of the internet”
 
 
-<b>What's insipred from reddit?</b>
+<b>What's inspired from reddit?</b>
 
 
 inspired features are:
 
 - communities as forums
 - subreddits
-- lot of subjects discussions: philosophy, science, technology,politics, etecera.
+- lot of subjects discussions: philosophy, science, technology, politics, etcetera.
 - karma
 
 decent land will try to fix:
 - skeptical fan base and the Reddit system's negative feedback option
 - community centralization: owned by admins
-- classifying users basing on their Karma regardless their content
+- classifying users basing on their Karma regardless of their content
 - unclear rules to join a community or to guarantee admin's allow on posts sharing
 
 <h2>KarmaDAO:</h2>
@@ -48,7 +48,7 @@ inspired features are:
 decent land will try to fix:
 - the act of using centralised third party in DAO's core Protocol: Telegram
 - User experience
-- Protocol's non unification
+- Protocol's non-unification
 - Permanent archiving of user's content
 
 <h2>Public Square Protocol</h2>
@@ -60,7 +60,7 @@ After Twitter suspend of Trump's account POTUS, and the mysterious privacy polic
 inspired features are:
 
 - Open protocol, anyone can join the network
-- unbiased, rulesless & simple
+- unbiased, ruleless & simple
 - permanent storage of discussions
 - on-chain user activity
 
@@ -73,7 +73,7 @@ decent land will try to fix
 
 <h1>decent land protocol structure</h1>
 
-According the the pros and cons mentioned above, decent land will be a "better" hybrid built totally onchain.
+According to the pros and cons mentioned above, decent land will be a "better" hybrid built totally on-chain.
 
 <h2>1- Protocol: App-Name</h2>
 
@@ -81,7 +81,7 @@ in intention to create a hierarchical `tags` based protocol, a global tag will b
 
 > ` "App-Name", "decent.land" `
 
-Also protocol's version will be recorded in another tag. It will follow SamVer versioning
+Also, the protocol's version will be recorded in another tag. It will follow SamVer versioning.
 
 > `"version", "0.0.1"`
 
@@ -92,30 +92,30 @@ communities created over decent land will have a standard hardcoded tag-key defi
 
 - example: ` "tribus", "l-VX...YRLn" `
 
-Another key-value with a human readable value related tribus tag will be created ; ` "tribus", "meme-stan" `
+Another key-value with a human-readable value related tribus tag will be created ; ` "tribus", "meme-stan" `
 
 And if you want to compare it to Reddit, each ` "tribus", "tribus-name" ` key-value pair tag is equivalent to a ` /r/communityName `on Reddit.
 
 
 <b>Tribus Ownership Economy</b>
 
-Before creating a tribus (community), the creator define a minimum held amount of W3G token (temporar symbol in the time of writing) by the user to be eligible to post in that community (being a member); regardless of who's the user, his content, or what he's going to post, there is no way to restrict his right to publish in that tribus other than min. held PST token. 
+Before creating a tribus (community), the creator defines a minimum held amount of W3G token (temporary symbol in the time of writing) by the user to be eligible to post in that community (being a member); regardless of who's the user, his content, or what he's going to post, there is no way to restrict his right to publish in that tribus other than min. held PST token. 
 
-Each tribus will represent a <a href="https://community.xyz">CommunityXYZ</a> community. Therefore, beside W3G token, each tribus will have its own token that can be used to tip and reward their own members.
+Each tribus will represent a <a href="https://community.xyz">CommunityXYZ</a> community. Therefore, besides the W3G token, each tribus will have its own token that can be used to tip and reward their members.
 
 
- **Tribus membership is tradable: *buy to join , sell to leave* **
+ **Tribus membership is tradable: *buy to join, sell to leave* **
  
  
  <b>Tribus Structure</b>
  
  Tribus structure will be similar to Merkle Patricia Trie or "Merkle Root" in Ethereum blockchain.
  
-keywoards:
+keywords:
 
 - Entry trie: Tribus
 - sub-node: post in a Tribus
-- reply: post's reply(ies)
+- reply: posts reply(ies)
  
  
 <h2>3- Registration </h2>
@@ -141,6 +141,4 @@ Usernames act as "Name" and can be updated anytime as same as bio***
 - `"Content-Type", "application/json"`
 - `"user-id", ${pub_key}`
 - `"unix-epoch", ${userObject["registration_unix_epoch"]}` -- automatically insered by the script
-
-
 
